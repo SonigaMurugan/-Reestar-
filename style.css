@@ -1,0 +1,44 @@
+
+.home{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-bottom: 10px;
+}
+ul,li{
+    display: inline;
+}
+
+.product{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.box{
+    padding: 10px;
+    border-color:black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 230px;
+}
+img{
+    width: 220px;
+    height: 220px;
+}
+p{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    display: inline;
+}
+
+.contact{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+form{
+    align-items: center;
+    margin-left:42%;
+}
